@@ -77,9 +77,8 @@ python -m unittest discover tests
 `tests/test_servicos.py` usa um banco temporário e e-mails simulados (não mexe nos
 seus dados).
 
-## Ainda não tem (ideias para as próximas etapas)
+## próximas etapas:
 
-- Foto de perfil (o formulário antigo tinha upload).
+- Foto de perfil.
 - Opção de cada pessoa desligar os avisos por e-mail.
 - Limite de tentativas de login erradas.
-- Migrações de banco (Alembic) para evoluir tabelas sem apagar dados.

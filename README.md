@@ -1,4 +1,4 @@
-# HU Conecta — versão SQL (sem REDCap)
+# HU Conecta
 
 Plataforma para conectar estudantes, residentes, docentes e profissionais da saúde
 do HUAC. Nesta versão **tudo acontece dentro do sistema**: o cadastro, o login, a
